@@ -1,0 +1,65 @@
+[
+  {
+        "name": "SAMSUNG Galaxy F12 (Sky Blue, 64 GB) (4 GB RAM)#JustHere",
+        "slug": "SAMSUNG-Galaxy-F12-(Sky-Blue-64-GB)-(4-GB-RAM)JustHere",
+        "price": 11499,
+        "quantity": 200,
+        "description": "The Samsung Galaxy F12 features a stylish design and innovative features so that you can enjoy using the mobile phone for all that you need. Thanks to its 6000 mAh battery, you will have a blast using your phone for a long time while you stream content and much more. It provides surround sound with Dolby Atmos so that you can delve into a world of rich music. And, it’s equipped with features that ensure the protection of your mobile phone.",
+        "productPictures": [
+            {
+                "img": "XaVUvFblQ_galaxy-f12-sm-f127glbiins-samsung-original-imagftmhawdaep9u.jpeg",
+                "_id": "61c7167f0ae673e53184b227"
+            },
+            {
+                "img": "UWtZUU3wz7_galaxy-f12-sm-f127glbiins-samsung-original-imagftmhhacppamy.jpeg",
+                "_id": "61c7167f0ae673e53184b228"
+            },
+            {
+                "img": "pTerNJ5jWj_galaxy-f12-sm-f127glbiins-samsung-original-imagftmhhhvghq7w.jpeg",
+                "_id": "61c7167f0ae673e53184b229"
+            },
+            {
+                "img": "7eBOtnrv0-_galaxy-f12-sm-f127glbiins-samsung-original-imagftmhswz4n6yg.jpeg",
+                "_id": "61c7167f0ae673e53184b22a"
+            }
+        ],
+        "category": "61c5e6dad8f5092d48e11f36",
+        "createdBy": "61c44802e84413b1f7ff75b3",
+        "_id": "61c7167f0ae673e53184b226",
+        "reviews": [],
+        "createdAt": "2021-12-25T13:02:55.591Z",
+        "updatedAt": "2021-12-25T13:02:55.591Z",
+        "__v": 0
+    },
+    {
+        "name": "SAMSUNG S20 FE 5G (Cloud Mint, 128 GB)  (8 GB RAM)",
+        "slug": "SAMSUNG-S20-FE-5G-(Cloud-Mint-128-GB)-(8-GB-RAM)",
+        "price": 40965,
+        "quantity": 100,
+        "description": "1 Year For handset 6 Months For Accessory",
+        "productPictures": [
+            {
+                "img": "M2uwfdfEH_s20fe-5g-sm-g781b-ds-samsung-original-imag8x8pamsf6m3z.jpeg",
+                "_id": "61c7175cbf8dc72db7b96ccc"
+            },
+            {
+                "img": "gv8NATxuLh_s20fe-5g-sm-g781b-ds-samsung-original-imag8x8przzts2px.jpeg",
+                "_id": "61c7175cbf8dc72db7b96ccd"
+            },
+            {
+                "img": "QLbuomiCQn_s20fe-5g-sm-g781b-ds-samsung-original-imag8x8pvpwgrsgg.jpeg",
+                "_id": "61c7175cbf8dc72db7b96cce"
+            },
+            {
+                "img": "gQMrvAhIgm_s20fe-5g-sm-g781b-ds-samsung-original-imag8x8pzw9p2gwy.jpeg",
+                "_id": "61c7175cbf8dc72db7b96ccf"
+            }
+        ],
+        "category": "61c5e6dad8f5092d48e11f36",
+        "createdBy": "61c44802e84413b1f7ff75b3",
+        "_id": "61c7175cbf8dc72db7b96ccb",
+        "reviews": [],
+        "createdAt": "2021-12-25T13:06:36.337Z",
+        "updatedAt": "2021-12-25T13:06:36.337Z",
+        "__v": 0
+    }]
